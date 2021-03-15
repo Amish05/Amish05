@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amish05
-- 👀 Flutter.
-- 🌱 Flutter & C++.
-- 💞️ B&B.
+- 👀 I'm interested in Flutter.
+- 🌱 I'm learning Flutter & C++.
+- 💞️I'm looking to collaborate to complete My Project B&B.
 - 📫 amish5151@gmail.com
 
 <!---
